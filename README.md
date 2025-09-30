@@ -1,4 +1,4 @@
-# 👋 Hello Stranger, I'm Claret  
+# 🌹 Hello Stranger, I'm Claret  
 
 I’m not here to drop a boring
 “Hi, I’m passionate about tech…” intro.  
@@ -7,7 +7,7 @@ From HTML & CSS days to actually pushing JavaScript ES6, React + Vite, and curre
 
 Right now, I’m focused on Front-end building with **React, TypeScript, Node.js**, and exploring the Web3 world because we're going into a decentralized world, and I want to be part of the builders shaping it.
 
-If you see me around here, expect projects, experiments, and maybe some chaos — but always growth. 🌱  
+If you see me around here, expect projects, experiments, and maybe some chaos, but always growth. 🌱  
 
 ---
 
@@ -39,7 +39,7 @@ If you see me around here, expect projects, experiments, and maybe some chaos �
 ## 📫 Let’s Connect  
 -  X (Twitter):[@0xClaret_dev](https://twitter.com/0xClaret_dev)  
 -  LinkedIn:[@Claret-cordis](https://linkedin.com/in/claret-cordis)  
- - Mobile: +234-XXC-XXX-XXXX  
+ - Mobile: +234-XXX-XXX-XXXX  
 
 ---
 ⭐️ From [Claret](https://github.com/yourusername)
