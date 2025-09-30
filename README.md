@@ -1,4 +1,4 @@
-# 🌹Hello Stranger, I'm Claret
+# 👋Hello Stranger,      I'm Claret🌹
 
 I’m not here to drop a boring
 “Hi, I’m passionate about tech…” intro.  
