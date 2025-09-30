@@ -1,4 +1,4 @@
-# 🌹 Hello Stranger, I'm Claret  
+# 🌹Hello Stranger, I'm Claret
 
 I’m not here to drop a boring
 “Hi, I’m passionate about tech…” intro.  
@@ -29,7 +29,7 @@ If you see me around here, expect projects, experiments, and maybe some chaos, b
 
 ---
 
-## 🌱 What I’m Currently Learning  
+## 🌱 What I’m Currently Working on 
 - Building functional Front-end **React + TypeScript projects**  
 - Strengthening my **Node.js backend flow**  
 - Still Learning and Writing smart contracts with **Solidity + Foundry**  
@@ -42,7 +42,7 @@ If you see me around here, expect projects, experiments, and maybe some chaos, b
  - Mobile: +234-XXX-XXX-XXXX  
 
 ---
-⭐️ From [Claret](https://github.com/yourusername)
+⭐️ From [Claret](https://github.com/claret-01)
 
 <!--
 **Claret-01/Claret-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
